@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ShivaanP
+- 👀 I currently work at Nedbank as an SAP developer
+- 🌱 I’m currently a student at UP, studying Honours in Computer Science
+- 💞️ I’m using this Github for my campus assignments
+- 📫 Please email me if you have any questions: u13195914@tuks.co.za
